@@ -31,8 +31,8 @@ www.linkedin.com/in/anujit-dutta-047119255
   <img src="https://cdn.simpleicons.org/databricks/FF3621" height="40" alt="databricks" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/snowflake/29B5E8" height="40" alt="snowflake" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/informatica/FF4D00" height="40" alt="informatica cloud" />
+  <!-- <img width="12" />
+  <img src="https://cdn.simpleicons.org/informatica/FF4D00" height="40" alt="informatica cloud" /> -->
 </div>
 
 <h4 align="left">⚙️ Data Engineering & Processing</h4>
