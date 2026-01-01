@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 I'm Anujit</h1>
+<h1 align="left">Hey👋 I'm Anujit</h1>
 
 <h3 align="left">🚀 Data Engineer @Cognizant</h3>
 
