@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 I'm Anujit</h1>
 
-<h3 align="left">🚀 Data Engineer @ Cognizant</h3>
+<h3 align="left">🚀 Data Engineer @Cognizant</h3>
 
 <p align="left">
 I design, build, and optimize scalable data pipelines and cloud-based data platforms.
